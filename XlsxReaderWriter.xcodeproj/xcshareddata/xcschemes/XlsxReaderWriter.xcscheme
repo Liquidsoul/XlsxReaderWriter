@@ -52,6 +52,14 @@
                BlueprintName = "XlsxReaderWriterTests"
                ReferencedContainer = "container:XlsxReaderWriter.xcodeproj">
             </BuildableReference>
+            <SkippedTests>
+               <Test
+                  Identifier = "BRAXlsxReaderWriterTests">
+               </Test>
+               <Test
+                  Identifier = "SwiftTestCase/testSwiftOpenClose()">
+               </Test>
+            </SkippedTests>
          </TestableReference>
       </Testables>
       <MacroExpansion>
